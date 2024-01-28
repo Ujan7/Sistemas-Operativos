@@ -1,0 +1,38 @@
+11: 2150 MFLOP100T
+                                        10: 206 OPW100T, 206 OPR100T
+11: 2129 MFLOP100T
+11: 2150 MFLOP100T
+                                        10: 123 OPW100T, 123 OPR100T
+                                        10: 316 OPW100T, 316 OPR100T
+11: 1793 MFLOP100T
+                                        10: 1664 OPW100T, 1664 OPR100T
+11: 1725 MFLOP100T
+                                        10: 1647 OPW100T, 1647 OPR100T
+11: 1563 MFLOP100T
+                                        10: 1774 OPW100T, 1774 OPR100T
+11: 1830 MFLOP100T
+                                        10: 379 OPW100T, 379 OPR100T
+11: 2089 MFLOP100T
+                                        10: 411 OPW100T, 411 OPR100T
+11: 2013 MFLOP100T
+11: 2069 MFLOP100T
+                                        10: 460 OPW100T, 460 OPR100T
+11: 2129 MFLOP100T
+                                        10: 169 OPW100T, 169 OPR100T
+11: 1899 MFLOP100T
+                                        10: 545 OPW100T, 545 OPR100T
+11: 1776 MFLOP100T
+11: 2089 MFLOP100T
+                                        10: 1219 OPW100T, 1219 OPR100T
+11: 2171 MFLOP100T
+                                        10: 100 OPW100T, 100 OPR100T
+                                        10: 509 OPW100T, 509 OPR100T
+11: 1617 MFLOP100T
+                                        10: 1010 OPW100T, 1010 OPR100T
+11: 2031 MFLOP100T
+11: 1954 MFLOP100T
+                                        10: 676 OPW100T, 676 OPR100T
+                                        10: 731 OPW100T, 731 OPR100T
+11: 1954 MFLOP100T
+Termino iobench 10: total ops 26368u -->        PID: 10, Priority: 2, Scheduler Count: 42572, Last Execution: 5083
+Termino cpubench 11: total ops 402653184u --> PID: 11, Priority: 0, Scheduler Count: 3037, Last Execution: 5091

@@ -1,0 +1,22 @@
+**********CASO 1 - Q10VECESMENOS**********
+
+					3: 8704 OPW100T, 8704 OPR100T
+                                        3: 8384 OPW100T, 8384 OPR100T
+                                        3: 9088 OPW100T, 9088 OPR100T
+                                        3: 8640 OPW100T, 8640 OPR100T
+                                        3: 8832 OPW100T, 8832 OPR100T
+                                        3: 8256 OPW100T, 8256 OPR100T
+                                        3: 8704 OPW100T, 8704 OPR100T
+                                        3: 8512 OPW100T, 8512 OPR100T
+                                        3: 8768 OPW100T, 8768 OPR100T
+                                        3: 8448 OPW100T, 8448 OPR100T
+                                        3: 8768 OPW100T, 8768 OPR100T
+                                        3: 8512 OPW100T, 8512 OPR100T
+                                        3: 8768 OPW100T, 8768 OPR100T
+                                        3: 8512 OPW100T, 8512 OPR100T
+                                        3: 8832 OPW100T, 8832 OPR100T
+                                        3: 8384 OPW100T, 8384 OPR100T
+                                        3: 8832 OPW100T, 8832 OPR100T
+                                        3: 8512 OPW100T, 8512 OPR100T
+                                        3: 8896 OPW100T, 8896 OPR100T
+Termino iobench 3: total ops 328704u -->        PID: 3, Priority: 0, Scheduler Count: 555612, Last Execution: 21194

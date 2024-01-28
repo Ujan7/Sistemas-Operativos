@@ -1,0 +1,55 @@
+5: 398 MFLOP100T
+7: 450 MFLOP100T
+                                        3: 295 OPW100T, 295 OPR100T
+5: 845 MFLOP100T
+                                        3: 640 OPW100T, 640 OPR100T
+7: 1023 MFLOP100T
+5: 1059 MFLOP100T
+                                        3: 237 OPW100T, 237 OPR100T
+7: 1078 MFLOP100T
+5: 977 MFLOP100T
+7: 1006 MFLOP100T
+                                        3: 594 OPW100T, 594 OPR100T
+5: 1108 MFLOP100T
+7: 1078 MFLOP100T
+5: 1098 MFLOP100T
+                                        3: 98 OPW100T, 98 OPR100T
+7: 1108 MFLOP100T
+                                        3: 114 OPW100T, 114 OPR100T
+5: 1088 MFLOP100T
+7: 811 MFLOP100T
+                                        3: 2152 OPW100T, 2152 OPR100T
+5: 797 MFLOP100T
+7: 966 MFLOP100T
+5: 940 MFLOP100T
+                                        3: 687 OPW100T, 687 OPR100T
+7: 1098 MFLOP100T
+5: 1059 MFLOP100T
+                                        3: 704 OPW100T, 704 OPR100T
+7: 1006 MFLOP100T
+5: 986 MFLOP100T
+                                        3: 278 OPW100T, 278 OPR100T
+7: 1088 MFLOP100T
+5: 1050 MFLOP100T
+7: 1041 MFLOP100T
+                                        3: 724 OPW100T, 724 OPR100T
+5: 1032 MFLOP100T
+7: 1088 MFLOP100T
+                                        3: 220 OPW100T, 220 OPR100T
+5: 1078 MFLOP100T
+7: 1098 MFLOP100T
+                                        3: 114 OPW100T, 114 OPR100T
+5: 932 MFLOP100T
+7: 860 MFLOP100T
+                                        3: 1415 OPW100T, 1415 OPR100T
+5: 958 MFLOP100T
+7: 1078 MFLOP100T
+5: 1078 MFLOP100T
+                                        3: 186 OPW100T, 186 OPR100T
+7: 932 MFLOP100T
+5: 890 MFLOP100T
+                                        3: 891 OPW100T, 891 OPR100T
+
+Termino cpubench 5: total ops 1946157056u --> PID: 5, Priority: 0, Scheduler Count: 1006, Last Execution: 2234
+Termino cpubench 7: total ops 1744830464u --> PID: 7, Priority: 0, Scheduler Count: 1006, Last Execution: 2234
+Termino iobench 3: total ops 22400u --> PID: 3, Priority: 2, Scheduler Count: 35707, Last Execution: 2235

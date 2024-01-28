@@ -1,0 +1,57 @@
+**********CASO 5 - Q10VECESMENOS**********
+
+12: 1118 MFLOP100T
+10: 1068 MFLOP100T
+                                        13: 215 OPW100T, 215 OPR100T
+10: 1006 MFLOP100T
+12: 1050 MFLOP100T
+                                        13: 166 OPW100T, 166 OPR100T
+10: 1032 MFLOP100T
+12: 1059 MFLOP100T
+                                        13: 168 OPW100T, 168 OPR100T
+10: 1023 MFLOP100T
+12: 1078 MFLOP100T
+                                        13: 166 OPW100T, 166 OPR100T
+12: 1078 MFLOP100T
+10: 1032 MFLOP100T
+                                        13: 168 OPW100T, 168 OPR100T
+12: 1108 MFLOP100T
+10: 1068 MFLOP100T
+                                        13: 166 OPW100T, 166 OPR100T
+12: 1078 MFLOP100T
+10: 1032 MFLOP100T
+                                        13: 166 OPW100T, 166 OPR100T
+12: 1108 MFLOP100T
+10: 1068 MFLOP100T
+                                        13: 168 OPW100T, 168 OPR100T
+12: 1068 MFLOP100T
+10: 1032 MFLOP100T
+                                        13: 166 OPW100T, 166 OPR100T
+12: 1118 MFLOP100T
+10: 1068 MFLOP100T
+                                        13: 166 OPW100T, 166 OPR100T
+12: 1078 MFLOP100T
+10: 1032 MFLOP100T
+                                        13: 166 OPW100T, 166 OPR100T
+12: 1108 MFLOP100T
+10: 1078 MFLOP100T
+                                        13: 168 OPW100T, 168 OPR100T
+12: 1098 MFLOP100T
+10: 1050 MFLOP100T
+                                        13: 166 OPW100T, 166 OPR100T
+12: 1128 MFLOP100T
+10: 1050 MFLOP100T
+                                        13: 168 OPW100T, 168 OPR100T
+12: 1088 MFLOP100T
+10: 1088 MFLOP100T
+                                        13: 166 OPW100T, 166 OPR100T
+12: 1139 MFLOP100T
+10: 1050 MFLOP100T
+12: 1088 MFLOP100T
+                                        13: 166 OPW100T, 166 OPR100T
+10: 1088 MFLOP100T
+12: 1128 MFLOP100T
+                                        13: 166 OPW100T, 166 OPR100T
+Termino cpubench 12: total ops 268435456u --> PID: 12, Priority: 0, Scheduler Count: 10496, Last Execution: 46963
+Termino cpubench 10: total ops 3154116608u --> PID: 10, Priority: 0, Scheduler Count: 21106, Last Execution: 46992
+Termino iobench 13: total ops 6656u --> PID: 13, Priority: 0, Scheduler Count: 21181, Last Execution: 47002

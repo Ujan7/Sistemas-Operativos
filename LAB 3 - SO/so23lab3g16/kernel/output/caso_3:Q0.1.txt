@@ -1,0 +1,24 @@
+*******************Caso 3 MLFQ >Q*******************
+                                      7: 3648 OPW100T, 3648 OPR100T
+8: 471 MFLOP100T
+                                        7: 2823 OPW100T, 2823 OPR100T
+8: 444 MFLOP100T
+                                        7: 3170 OPW100T, 3170 OPR100T
+8: 569 MFLOP100T
+                                        7: 2871 OPW100T, 2871 OPR100T
+8: 738 MFLOP100T
+8: 898 MFLOP100T
+8: 883 MFLOP100T
+8: 890 MFLOP100T
+8: 890 MFLOP100T
+8: 883 MFLOP100T
+8: 890 MFLOP100T
+8: 898 MFLOP100T
+8: 890 MFLOP100T
+8: 890 MFLOP100T
+8: 898 MFLOP100T
+8: 890 MFLOP100T
+8: 898 MFLOP100T
+8: 798 MFLOP100T
+Termino cpubench 8: total ops 2818572288u --> PID: 8, Priority: 0, Scheduler Count: 19631, Last Execution: 69975
+Termino iobench 7: total ops 26112u --> PID: 7, Priority: 0, Scheduler Count: 42072, Last Execution: 69989

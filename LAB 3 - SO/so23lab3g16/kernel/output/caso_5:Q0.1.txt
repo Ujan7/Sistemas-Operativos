@@ -1,0 +1,45 @@
+*******************Caso 5 MLFQ >Q*******************
+                                        3: 2496 OPW100T, 2496 OPR100T
+7: 549 MFLOP100T
+5: 549 MFLOP100T
+7: 805 MFLOP100T
+5: 797 MFLOP100T
+                                        3: 2316 OPW100T, 2316 OPR100T
+7: 867 MFLOP100T
+5: 867 MFLOP100T
+                                        3: 1729 OPW100T, 1729 OPR100T
+                                        3: 2512 OPW100T, 2512 OPR100T
+7: 745 MFLOP100T
+5: 738 MFLOP100T
+                                        3: 1856 OPW100T, 1856 OPR100T
+7: 774 MFLOP100T
+5: 639 MFLOP100T
+                                        3: 4078 OPW100T, 4078 OPR100T
+7: 554 MFLOP100T
+5: 671 MFLOP100T
+7: 774 MFLOP100T
+5: 898 MFLOP100T
+7: 1041 MFLOP100T
+5: 1078 MFLOP100T
+7: 1078 MFLOP100T
+5: 1078 MFLOP100T
+7: 1108 MFLOP100T
+5: 1059 MFLOP100T
+7: 1068 MFLOP100T
+5: 1078 MFLOP100T
+7: 1068 MFLOP100T
+5: 1050 MFLOP100T
+7: 1078 MFLOP100T
+5: 1078 MFLOP100T
+7: 1098 MFLOP100T
+5: 1108 MFLOP100T
+7: 1108 MFLOP100T
+5: 1088 MFLOP100T
+7: 1098 MFLOP100T
+5: 1078 MFLOP100T
+7: 1068 MFLOP100T
+5: 1078 MFLOP100T
+7: 1118 MFLOP100T
+Termino cpubench 5: total ops 738197504u --> PID: 5, Priority: 0, Scheduler Count: 9465, Last Execution: 22003
+Termino cpubench 7: total ops 1543503872u --> PID: 7, Priority: 0, Scheduler Count: 9499, Last Execution: 22037
+Termino iobench 3: total ops 31104u --> PID: 3, Priority: 1, Scheduler Count: 57231, Last Execution: 22047
